@@ -1,7 +1,7 @@
 
 'use strict'
 
-const setTimeline = require('./timeline').setTimeline;
+const setTimeline = require('settimeline').setTimeline;
 
 let $tl = setTimeline( function(data){console.log( data )}, {max:20, min:1, interval:10000})
 

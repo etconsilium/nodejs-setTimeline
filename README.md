@@ -3,10 +3,9 @@
 example:
 
 ```
-
 'use strict'
 
-const setTimeline = require('./timeline').setTimeline;
+const setTimeline = require('settimeline').setTimeline;
 
 let $tl = setTimeline( 
     function(data){

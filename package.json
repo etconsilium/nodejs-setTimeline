@@ -1,0 +1,24 @@
+{
+  "name": "timeline",
+  "version": "1.0.1",
+  "description": "nodejs FOR FOOD",
+  "author": "vs",
+  "license": "BSD-2-Clause",
+  "url": "https://github.com/etconsilium/nodejs-timeline",
+  "keywords": [
+    "setInterval",
+    "setTimeout",
+    "setTimeline",
+    "nodejs pause",
+    "nodejs sleep",
+    "callback pause"
+  ],
+  "author": {
+    "name": "vs",
+    "email": "etconsilium@users.noreply.github.com"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etconsilium/nodejs-timeline.git"
+  },}
